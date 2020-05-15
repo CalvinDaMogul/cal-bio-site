@@ -6,8 +6,12 @@ function App() {
     <div className="App">
       <header className="App-header">
         {/* <img src={logo} className="App-logo" alt="logo" /> */}
+        <h2>
+          Calvin J. Foster
+        </h2>
         <p>
-          Calvin's Portfolio
+          My name is Calvin J. Foster. I am one of the organizer's of the Black.Codes. The Black.Codes is an organization dedicated to helping the black community in every aspect
+          through tech.
         </p>
         {/* <a
           className="App-link"
