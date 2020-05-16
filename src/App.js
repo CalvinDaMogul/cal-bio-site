@@ -10,7 +10,7 @@ function App() {
           Calvin J. Foster
         </h2>
         <p>
-          My name is Calvin J. Foster. I am one of the organizer's of the Black.Codes. The Black.Codes is an organization dedicated to helping the black community in every aspect
+          My name is Calvin J. Foster. I am one of the organizer's of the Black.Codes. The Black.Codes is an organization that is dedicated to helping the black community in every aspect
           through tech.
         </p>
         {/* <a
