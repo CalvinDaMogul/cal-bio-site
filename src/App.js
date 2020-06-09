@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         {/* <img src={logo} className="App-logo" alt="logo" /> */}
         <h2>
-          Calvin J. Foster
+          Calvin J. Foster Portfolio
         </h2>
         <p>
           My name is Calvin J. Foster. I am one of the organizer's of the Black.Codes. The Black.Codes is an organization that is dedicated to helping the black community in every aspect
